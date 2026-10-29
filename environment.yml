@@ -1,0 +1,14 @@
+name: evomem3d
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch=1.13.1
+  - torchvision=0.14.1
+  - pytorch-cuda=11.7
+  - numpy=1.23.5
+  - mkl=2022.1.0
+  - intel-openmp=2022.1.0
