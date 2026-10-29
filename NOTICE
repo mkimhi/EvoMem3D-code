@@ -1,12 +1,11 @@
 EvoMem3D training and evaluation release
 
-This code builds on SEPatch3D by Mingqian Ji, Shanshan Zhang, and Jian Yang:
-https://github.com/Mingqj/SEPatch3D
-"Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View
-3D Object Detectors", CVPR 2026.
+
+Our code builds on the same enviroment of SEPatch3D.
 Installation and data preparation:
 https://github.com/Mingqj/SEPatch3D#get-started
 Upstream reference revision: 4a5111f417b68f78dda1fb667ac56a954e587c4a.
+
 
 The detector infrastructure also incorporates work from StreamPETR,
 PETR/DETR3D, MMDetection, MMCV, MMDetection3D, EVA, and FlashAttention:
